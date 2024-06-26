@@ -18,7 +18,6 @@ Growing up, my mother and father were always deeply connected to nature. Our chi
 
 During the Covid pandemic in 2020, it was exciting to watch as others throughout the nation seem to become more interested and invested in wandering the outdoors. This led me to wonder, as we entered into the new normal following the pandemic, did the interest in outdoor recreation continue? Was there ever really a sudden increase due to the pandemic? And is there a correlation between the interest and investment in outdoor recreation and National Park popularity or proximity?
 
-```
 
 # Technology
 [(Back to top)](#table-of-contents)
