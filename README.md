@@ -1,62 +1,42 @@
-# Outdoor Recreation GDP and National Parks Attendance
+# Capstone Project DA11
+## _Outdoor Recreation GDP and The National Parks_
 
-In November 2023, The Bureau of Economic Analysis released the 2022 data with the GDP breakdown of Outdoor Recreation.
 
-## Description
+# Table of Contents
 
-An in-depth paragraph about your project and overview of use.
+- [Table of Contents](#table-of-contents)
+- [Motivation](#motivation)
+- [Technology](#technology)
+- [Development](#development)
+- [Contribute](#contribute)
+- [License](#license)
 
-## Getting Started
+# Motivation
+[(Back to top)](#table-of-contents)
 
-### Dependencies
+Growing up, my mother and father were always deeply connected to nature. Our childhood summers were spent in the mountains hiking in North Carolina and our weekends were spent exploring the National and State parks in our backyard in Florida. As an adult, these experiences have made me a kayak loving, mountain hiking, exploration driven lady. 
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+During the Covid pandemic in 2020, it was exciting to watch as others throughout the nation seem to become more interested and invested in wandering the outdoors. This led me to wonder, as we entered into the new normal following the pandemic, did the interest in outdoor recreation continue? Was there ever really a sudden increase due to the pandemic? And is there a correlation between the interest and investment in outdoor recreation and National Park popularity or proximity?
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
 ```
 
-## Help
+# Technology
+[(Back to top)](#table-of-contents)
 
-Any advise for common problems or issues.
+- Tableau
+- Python
+- Excel
+- Pandas
+- Seaborn
+
+# Data Used
+[(Back to top)](#table-of-contents)
+
+Data used for this project was gathered from multiple sources.
+
+- Outdoor Recreation Satellite Account, U.S. and States, 2022: https://www.bea.gov/data/special-topics/outdoor-recreation
+- Outdoor Recreation Satellite Account, U.S. and States: State CSV files, 2012-2021 https://apps.bea.gov/regional/histdata/releases/1122orsa/index.cfm
+- Visitation by State and by Park for Calendar Years 2017-2022: https://irma.nps.gov/Stats/SSRSReports/National%20Reports/Visitation%20By%20State%20and%20By%20Park%20(2017%20-%20Last%20Calendar%20Year)
+- Divisional Average Temperature for 2022 with Supporting Historical Temperatures: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/divisional/mapping/110/tavg/202212/12/value
+
 ```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
